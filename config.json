@@ -20,5 +20,62 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "공과대학 (08)": {
+      "style": "tan",
+      "wall": "#a98d80",
+      "glass": "#5b6f7e",
+      "frame": "#c1bcb8"
+    },
+    "학산도서관 (06)": {
+      "style": "glass",
+      "wall": "#a9b0b9",
+      "glass": "#5d8fb0",
+      "frame": "#c9ced3"
+    },
+    "강당 및 공연장 (23)": {
+      "style": "glass",
+      "wall": "#dfe3e6",
+      "glass": "#6f8792",
+      "frame": "#b9bcbf"
+    },
+    "자연과학/생명과학기술대학 (05)": {
+      "style": "tan",
+      "wall": "#9c7a6b",
+      "glass": "#8fb0b8",
+      "frame": "#d8cfc6"
+    },
+    "스포츠센터 (20)": {
+      "style": "concrete",
+      "wall": "#4a4946",
+      "glass": "#3a4a50",
+      "frame": "#a7b2b6"
+    },
+    "복지회관 (11)": {
+      "style": "glass",
+      "wall": "#d9d4cc",
+      "glass": "#8fa9b8",
+      "frame": "#aa9a8f"
+    },
+    "공동실험실습관 (09)": {
+      "style": "concrete",
+      "wall": "#c1c5c8",
+      "glass": "#5c6b78",
+      "frame": "#9aa1a6"
+    },
+    "정보대(07)": {
+      "style": "tan",
+      "wall": "#8a6d61",
+      "glass": "#5f6b7e",
+      "frame": "#b4a9a2"
+    },
+    "바이오컴플렉스 (41)": {
+      "style": "concrete",
+      "wall": "#a7a9b3",
+      "glass": "#4e5a72",
+      "frame": "#d7c3a3"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
