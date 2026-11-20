@@ -1,0 +1,34 @@
+{
+ "region": "인천 연수구 송도동",
+ "nameEn": "Incheon National University Songdo Campus",
+ "added": "2026-10-24",
+ "rank": 62,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "YONSEI-INTL",
+   "campus": "연세대학교 국제캠퍼스",
+   "km": 3.7
+  },
+  {
+   "code": "GACHON-MEDICAL",
+   "campus": "가천대학교 메디컬캠퍼스",
+   "km": 7.2
+  },
+  {
+   "code": "SNU-SIHEUNG",
+   "campus": "서울대학교 시흥캠퍼스",
+   "km": 7.8
+  },
+  {
+   "code": "INHATC",
+   "campus": "인하공업전문대학",
+   "km": 8.4
+  },
+  {
+   "code": "INHA",
+   "campus": "인하대학교",
+   "km": 8.5
+  }
+ ]
+}
